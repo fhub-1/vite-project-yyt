@@ -3,7 +3,7 @@ import React from 'react'
 const Hero = () => {
   return (
     <section
-      className="bg-gray-100 
+      className="bg-gray-9sss00 
     pt-10 sm:pt-16 lg:pt-24"
     >
       <div className="px-4 mx-auto sm:px-6 lg:px-8 max-w-7xl">
